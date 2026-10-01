@@ -1,0 +1,15 @@
+# Runtime state
+rate_limit_state.json
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# Local PoB exports and temporary files
+*.xml
+*.zip
+*.log
